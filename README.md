@@ -33,10 +33,14 @@ Firstly, we calculate the summation of the squared of the training data (x) and 
 
 
 References:
+
 [1] K Neasrest Neighbours – Introduction to Machine Learning Algorithms, 21.10.2023, https://medium.com/@sachinsoni600517/k-nearest-neighbours-introduction-to-machine-learning-algorithms-9dbc9d9fb3b2
 
 Recources:
+
 https://medium.com/@souravdey/l2-distance-matrix-vectorization-trick-26aa3247ac6c
+
 https://www.ibm.com/topics/knn
+
 https://medium.com/@sachinsoni600517/k-nearest-neighbours-introduction-to-machine-learning-algorithms-9dbc9d9fb3b2
 
