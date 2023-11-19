@@ -1,7 +1,7 @@
 # HW1
 
 K-Nearest Neighbors (k-NN)
-Hasan Erdin – 504201525
+
  ![image](https://github.com/hasanerdin/HW1/assets/52705602/bba43c45-bfd2-4ede-977e-37694ca79002)
 Figure 1: Representation of k-nn [1]
 
